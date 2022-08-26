@@ -9,7 +9,7 @@ layout: layouts/post.njk
 
 Critical thinkers have traits that set them apart from normal people. According to a HackSpirit article, there are 16 characteristics that define a critical thinker.
 
-![](../img/image-4.webp)
+![](/img/image-4.webp)
 
 After reading the article, I contemplated whether I was a critical thinker or not. I compared myself to the perfect critical thinker defined by the article and I found out I was somewhat similar to it. The traits of a critical thinker that I have are being objective, not passively accepting things, being sensitive to details, the ability to connect dots, open-minded, thinking outside the box, being introspective, having personal opinions, and the ability to make decisions. These are all things I would say describe me. But that doesn’t make me the perfect critical thinker. There are still traits that I don’t have that are crucial to critical thinking.
 
