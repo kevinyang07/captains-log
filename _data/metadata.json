@@ -1,20 +1,20 @@
 {
-  "title": "Captain's Log",
-  "url": "https://example.com/",
-  "description": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+  "title": "Kevin's Captain Log",
+  "url": "https://kevin-english-blog.netlify.app/",
+  "description": "Yoho, mateys! I am sailing into English II. Here are some of my stories.",
   "feed": {
-    "subtitle": "Yoho, mateys! I've been sailing the seven seas, and this is my story!",
+    "subtitle": "Yoho, mateys! I am sailing into English II. Here are some of my stories.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://kevin-english-blog.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Kevin Yang",
+    "email": "kevinyang563@gmail.com",
+    "url": "https://kevin-english-blog.netlify.app/"
   }
 }
