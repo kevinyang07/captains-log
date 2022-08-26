@@ -1,26 +1,18 @@
 ---
-title: This is my first post. åäö
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Are You a Critical Thinker???
+description: First Post!!!
+date: 2022-08-23
 tags:
-  - another-tag
+  - english
 layout: layouts/post.njk
 ---
-åäö Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Critical thinkers have traits that set them apart from normal people. According to a HackSpirit article, there are 16 characteristics that define a critical thinker.
 
-## Section Header
+![](img/image-4.webp)
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+After reading the article, I contemplated whether I was a critical thinker or not. I compared myself to the perfect critical thinker defined by the article and I found out I was somewhat similar to it. The traits of a critical thinker that I have are being objective, not passively accepting things, being sensitive to details, the ability to connect dots, open-minded, thinking outside the box, being introspective, having personal opinions, and the ability to make decisions. These are all things I would say describe me. But that doesn’t make me the perfect critical thinker. There are still traits that I don’t have that are crucial to critical thinking.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+One problem I have is not begin able to change my mind about a certain topic. Once I have an opinion, my thoughts become blurred and I am locked into a view and unaware of it. If I am able to change this habit of mine, I think this would benefit my social skills and schoolwork tremendously.
 
-// Test with a line break above this line.
-console.log('Test');
-```
+Another trait I don’t have that is very necessary for critical thinking is asking questions. At school, I am a shy kid, I don’t like speaking up unless I have to. When I do have a question I tend to immediately try to solve it myself, “What is the obvious answer?” I ask myself or “I’ll figure it out later.” I think. My inability to ask questions makes me struggle a lot in some assignments because I wasn’t able to hear everything. If I start asking questions I would make classes a lot easier on myself and think more critically. 
