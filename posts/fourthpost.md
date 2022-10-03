@@ -31,9 +31,9 @@ This one shows off how it doesn't have to be just the piano but clarinets can do
 Grieg's Piano Concerto in A minor
 This piece is just fantastic. It is thrilling to listen too. It really invokes strong emotions when you listen to these songs. They genuinely make my heart race. I love listening to this piece because there is so much expression and passion in the piano piece.
 
-Beethoven, Ludwig. "Moonlight Sonata." *Youtube*. [](https://www.youtube.com/watch?v=4591dCHe_sE).
-Liszt, Franz. "La Campanella." *Youtube* [](https://www.youtube.com/watch?v=cIxGUAnj46U).
-Vivaldi, Antonio. "Four Seasons." *Youtube* [](https://www.youtube.com/watch?v=nbpAFzyrx5o).
-Strauss, Johann. "Blue Danube." *Youtube* [](https://www.youtube.com/watch?v=cKkDMiGUbUw).
-Chopin, Frederic. "Clarinet Quintet." *Youtube* [](https://www.youtube.com/watch?v=_mKUYMQsFwM).
-Grieg, Edvard. "Piano Concerto in A minor." *Youtube* [](https://www.youtube.com/watch?v=I1Yoyz6_Los).
+Beethoven, Ludwig. "Moonlight Sonata." *Youtube*. [https://www.youtube.com/watch?v=4591dCHe_sE](https://www.youtube.com/watch?v=4591dCHe_sE).
+Liszt, Franz. "La Campanella." *Youtube* [https://www.youtube.com/watch?v=cIxGUAnj46U](https://www.youtube.com/watch?v=cIxGUAnj46U).
+Vivaldi, Antonio. "Four Seasons." *Youtube* [https://www.youtube.com/watch?v=nbpAFzyrx5o](https://www.youtube.com/watch?v=nbpAFzyrx5o).
+Strauss, Johann. "Blue Danube." *Youtube* [https://www.youtube.com/watch?v=cKkDMiGUbUw](https://www.youtube.com/watch?v=cKkDMiGUbUw).
+Chopin, Frederic. "Clarinet Quintet." *Youtube* [https://www.youtube.com/watch?v=_mKUYMQsFwM](https://www.youtube.com/watch?v=_mKUYMQsFwM).
+Grieg, Edvard. "Piano Concerto in A minor." *Youtube* [https://www.youtube.com/watch?v=I1Yoyz6_Los](https://www.youtube.com/watch?v=I1Yoyz6_Los).
