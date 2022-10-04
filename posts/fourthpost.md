@@ -10,7 +10,7 @@ layout: layouts/post.njk
 I was recently looking through my music playlist and I noticed that my music followed a certain theme. Here I will show you my 6 favorite songs and how they relate to my life and why I enjoy them. First thing I notice is many of the songs I listen to don't have lyrics. For example, I enjoy listening to classical pieces like: 
 
 Beethoven's famouse Moonlight Sonata
-/img/moonlightsonata.mp3
+![](/img/moonlightsonata.mp3)
 This song has highs and lows. It contains every part a song requires. I love this piece because of how relaxing it is to listen too.
 
 Liszt's La Campanella
