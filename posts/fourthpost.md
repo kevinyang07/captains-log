@@ -12,18 +12,22 @@ I was recently looking through my music playlist and I noticed that my music fol
 Beethoven's famouse Moonlight Sonata
 <audio src="/img/moonlightsonata.mp3" controls="" preload=""></audio>
 This song has highs and lows. It contains every part a song requires. I love this piece because of how relaxing it is to listen too.
+![](/img/beethoven.jpg)
 
 Liszt's La Campanella
 <audio src="/img/lacampanella.mp3" controls="" preload=""></audio>
 This piece is just impressive. Liszt really shows how beautiful a single piano can sound on its own. It really brings out the amazing aspect of the piano.
+![](/img/liszt.jpg)
 
 Vivaldi's Four Seasons, Winter being the most notable
 <audio src="/img/fourseason.mp3" controls="" preload=""></audio>
 This song has not one impressive piece, not two, not three, but four parts that are all equally impressive and sound amazing. The four parts each represent a season and each song just represents the season so perfectly with the tone of the piece.
+![](/img/vivaldi.jpg)
 
 Blue Danube by Strauss
 <audio src="/img/bluedanube.mp3" controls="" preload=""></audio>
 This piece makes me feel like I'm in another world. Listening to this piece is just relaxing. This is just a masterpiece!
+![](/img/strauss.jpg)
 
 I enjoy music without lyrics and have instrumental sounds rather than electronic sounds. As you can see I really enjoy classical pieces. These are just a few pieces I listen to while I study and relax. It allows my mind to focus really well. 
 
@@ -33,10 +37,12 @@ Chopin's Clarinet Quintet
 <audio src="/img/clarinetquintet.mp3" controls="" preload=""></audio>
 /img/clarinetquintet.mp3
 This one shows off how it doesn't have to be just the piano but clarinets can do it too. The pieces is inspiring and soothing. I love the wistful feeling you get fron the clarinet and the dark parts of the clarinet at times.
+![](/img/chopin.jpg)
 
 Grieg's Piano Concerto in A minor
 <audio src="/img/pianoconcerto.mp3" controls="" preload=""></audio>
 This piece is just fantastic. It is thrilling to listen too. It really invokes strong emotions when you listen to these songs. They genuinely make my heart race. I love listening to this piece because there is so much expression and passion in the piano piece.
+![](/img/grieg.jpg)
 
 Beethoven, Ludwig. "Moonlight Sonata." *Youtube*. [https://www.youtube.com/watch?v=4591dCHe_sE](https://www.youtube.com/watch?v=4591dCHe_sE).
 Liszt, Franz. "La Campanella." *Youtube* [https://www.youtube.com/watch?v=cIxGUAnj46U](https://www.youtube.com/watch?v=cIxGUAnj46U).
