@@ -1,7 +1,7 @@
 ---
 title: Map of Computer Science
 description: A brief description of categories in computer science. 
-date: 2022-10-05
+date: 2022-10-19
 tags:
   - english
 layout: layouts/post.njk
