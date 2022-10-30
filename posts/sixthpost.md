@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: Writer Igniter Attempt
 description: Story inspired by DIYMFA's writer igniter
 date: 2022-11-02
 tags:
