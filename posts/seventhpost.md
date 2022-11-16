@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: Interactive Story!
 description: An interactive game in Google Slides
 date: 2022-11-16
 tags:
