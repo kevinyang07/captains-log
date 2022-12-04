@@ -15,5 +15,4 @@ One thing that we should do more in the class is the teacher going around and he
 
 One thing I think we did a little too often was focusing on the book too much. We used the coming of age novel way too many times and this became boring to analyze. The constant use of the coming of age novel makes the book boring and bland. 
 
-Overall the class is great and I do enjoy reading new books and analyzing them for deeper meaning. The things mentioned aboves are just ways of making the class slightly better. 
-
+Overall the class is great and I do enjoy reading new books and analyzing them for deeper meaning. The things mentioned aboves are just ways of making the class slightly better.
