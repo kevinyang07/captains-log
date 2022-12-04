@@ -1,7 +1,7 @@
 ---
 title: Current School Situation
 description: Improvements and thoughts on the current semester 
-date: 2022-11-07
+date: 2022-12-07
 tags:
   - english
 layout: layouts/post.njk
