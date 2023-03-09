@@ -1,7 +1,7 @@
 ---
 title: Great Spots in College Statoin
 description: Advice for places to go in College Station
-date: 2023-03-09
+date: 2023-03-15
 tags:
   - english
 layout: layouts/post.njk
